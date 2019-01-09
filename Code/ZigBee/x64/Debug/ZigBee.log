@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  802_15_4.c
+  BackoffCalculation.c
+  BERCalculation.c
+  CCA.c
+  ChangeRadioState.c
+  LocateBackoffBoundary.c
+  SINRCalculation.c
+  SlottedCSMACA.c
+  Superframe.c
+  UnslottedCSMACA.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1202,5): warning MSB8012: TargetPath(C:\Users\TETCOS-DEMO SYSTEM\Desktop\Desktop\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\ZigBee\..\Dll\ZigBee.dll) does not match the Linker's OutputFile property value (C:\Users\TETCOS-DEMO SYSTEM\Desktop\Desktop\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\Dll\libZigBee.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1204,5): warning MSB8012: TargetName(ZigBee) does not match the Linker's OutputFile property value (libZigBee). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+802_15_4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Zigbee.lib(802_15_4_lib.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+802_15_4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\Dll\ZigBee.lib and object ..\Dll\ZigBee.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+Zigbee.lib(802_15_4_lib.obj) : warning LNK4099: PDB 'ZigbeeLib.pdb' was not found with 'Zigbee.lib(802_15_4_lib.obj)' or at 'C:\Users\TETCOS-DEMO SYSTEM\Desktop\Desktop\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\Dll\ZigbeeLib.pdb'; linking object as if no debug info
+  ZigBee.vcxproj -> C:\Users\TETCOS-DEMO SYSTEM\Desktop\Desktop\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\ZigBee\..\Dll\ZigBee.dll

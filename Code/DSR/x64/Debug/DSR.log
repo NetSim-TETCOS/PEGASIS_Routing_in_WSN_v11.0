@@ -1,0 +1,84 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CheckRouteFound.c
+  DSR.c
+  PEGASIS.c
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(67): warning C4013: 'fn_netsim_PEGASIS_next_closest_node' undefined; assuming extern returning int
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(76): warning C4013: 'fn_NetSim_PEGASIS_run' undefined; assuming extern returning int
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(69): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+  g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(69): note: consider using '%lld' in the format string
+  g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(69): note: consider using '%Id' in the format string
+  g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(69): note: consider using '%I64d' in the format string
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(50): warning C4101: 'i': unreferenced local variable
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(49): warning C4101: 'nInterface': unreferenced local variable
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(51): warning C4101: 'ClusterId': unreferenced local variable
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\pegasis.c(122): warning C4018: '<': signed/unsigned mismatch
+  MaintBuffer.c
+  MATLAB_Interface.c
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\stdbool.h(16): warning C4005: 'false': macro redefinition
+  c:\program files\matlab\r2016a\extern\include\tmwtypes.h(761): note: see previous definition of 'false'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\stdbool.h(17): warning C4005: 'true': macro redefinition
+  c:\program files\matlab\r2016a\extern\include\tmwtypes.h(764): note: see previous definition of 'true'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\include\main.h(212): warning C4005: 'printf': macro redefinition
+  c:\program files\matlab\r2016a\extern\include\mex.h(190): note: see previous definition of 'printf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(47): warning C4018: '<': signed/unsigned mismatch
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(105): warning C4018: '<': signed/unsigned mismatch
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(110): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(145): warning C4013: 'fn_netsim_form_cluster' undefined; assuming extern returning int
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(83): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(92): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: see declaration of 'getenv'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(127): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(129): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\matlab_interface.c(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  Network_Layer_Ack.c
+  PacketProcessing.c
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\packetprocessing.c(39): warning C4013: 'fn_NetSim_PEGASIS_run' undefined; assuming extern returning int
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\packetprocessing.c(42): warning C4013: 'fn_NetSim_PEGASIS_GetNextHop' undefined; assuming extern returning int
+  RouteCache.c
+  RouteError.c
+  RouteReply.c
+  RouteRequest.c
+  SendBuffer.c
+  SourceRoute.c
+g:\onedrive\documents\office\pegasis_matlab\pegasis_routing\code\dsr\sourceroute.c(64): warning C4013: 'fn_NetSim_PEGASIS_CheckDestination' undefined; assuming extern returning int
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1202,5): warning MSB8012: TargetPath(G:\OneDrive\Documents\OFFICE\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\DSR\..\Dll\DSR.dll) does not match the Linker's OutputFile property value (G:\OneDrive\Documents\OFFICE\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\Dll\libDSR.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1204,5): warning MSB8012: TargetName(DSR) does not match the Linker's OutputFile property value (libDSR). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+CheckRouteFound.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  List.lib(List.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+CheckRouteFound.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\Dll\DSR.lib and object ..\Dll\DSR.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+List.lib(List.obj) : warning LNK4099: PDB 'List.pdb' was not found with 'List.lib(List.obj)' or at 'G:\OneDrive\Documents\OFFICE\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\Dll\List.pdb'; linking object as if no debug info
+DSR.lib(DSR.obj) : warning LNK4099: PDB 'DSRLib.pdb' was not found with 'DSR.lib(DSR.obj)' or at 'G:\OneDrive\Documents\OFFICE\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\Dll\DSRLib.pdb'; linking object as if no debug info
+DSR.lib(LinkLayerAck.obj) : warning LNK4099: PDB 'DSRLib.pdb' was not found with 'DSR.lib(LinkLayerAck.obj)' or at 'G:\OneDrive\Documents\OFFICE\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\Dll\DSRLib.pdb'; linking object as if no debug info
+  DSR.vcxproj -> G:\OneDrive\Documents\OFFICE\PEGASIS_MATLAB\PEGASIS_ROUTING\Code\DSR\..\Dll\DSR.dll

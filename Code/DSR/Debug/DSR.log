@@ -1,0 +1,56 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CheckRouteFound.c
+  DSR.c
+  PEGASIS.c
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(67): warning C4013: 'fn_netsim_PEGASIS_next_closest_node' undefined; assuming extern returning int
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(76): warning C4013: 'fn_NetSim_PEGASIS_run' undefined; assuming extern returning int
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(52): warning C4101: 'i': unreferenced local variable
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(49): warning C4101: 'nInterface': unreferenced local variable
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(53): warning C4101: 'ClusterId': unreferenced local variable
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(121): warning C4018: '<': signed/unsigned mismatch
+  MaintBuffer.c
+  MATLAB_Interface.c
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\stdbool.h(16): warning C4005: 'false': macro redefinition
+  c:\program files\matlab\r2016a\extern\include\tmwtypes.h(761): note: see previous definition of 'false'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\stdbool.h(17): warning C4005: 'true': macro redefinition
+  c:\program files\matlab\r2016a\extern\include\tmwtypes.h(764): note: see previous definition of 'true'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\include\main.h(212): warning C4005: 'printf': macro redefinition
+  c:\program files\matlab\r2016a\extern\include\mex.h(190): note: see previous definition of 'printf'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(46): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(101): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(141): warning C4013: 'fn_netsim_form_cluster' undefined; assuming extern returning int
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(62): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(63): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(64): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(95): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(124): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(126): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(128): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(130): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\matlab_interface.c(133): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  Network_Layer_Ack.c
+  PacketProcessing.c
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\packetprocessing.c(39): warning C4013: 'fn_NetSim_PEGASIS_run' undefined; assuming extern returning int
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\packetprocessing.c(42): warning C4013: 'fn_NetSim_PEGASIS_GetNextHop' undefined; assuming extern returning int
+  RouteCache.c
+  RouteError.c
+  RouteReply.c
+  RouteRequest.c
+  SendBuffer.c
+  SourceRoute.c
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\sourceroute.c(64): warning C4013: 'fn_NetSim_PEGASIS_CheckDestination' undefined; assuming extern returning int
+  Generating Code...
+c:\users\tetcos-demo system\desktop\desktop\kanak\pegasis_routing\code\dsr\pegasis.c(96): warning C4716: 'fn_NetSim_PEGASIS_run': must return a value
